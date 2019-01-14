@@ -6,3 +6,6 @@ The code is largely based off of the work done by [@eriklindernoren](https://git
 ## DCGAN implementation on MNIST dataset
 Below is an implementation of a DCGAN on the MNIST dataset, trained on 8000 epochs: 
 ![MNIST-progression](https://github.com/jordanlei/dcgan/blob/master/mnist/progression.gif)
+
+## DCGAN implementation on CIFAR dataset
+In progress.
